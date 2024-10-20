@@ -1,0 +1,41 @@
+// fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//     console.log("done")
+//     fs.readFile("akash.txt",(error,data)=>{
+//         console.log(error,data.toString())
+//         // Again
+//         fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//             console.log("done")
+//             fs.readFile("akash.txt",(error,data)=>{
+//                 console.log(error,data.toString())
+//             })
+//         })
+//          // Again
+//          fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//             console.log("done")
+//             fs.readFile("akash.txt",(error,data)=>{
+//                 console.log(error,data.toString())
+//             })
+//         })
+//          // Again
+//          fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//             console.log("done")
+//             fs.readFile("akash.txt",(error,data)=>{
+//                 console.log(error,data.toString())
+//             })
+//         })
+//          // Again
+//          fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//             console.log("done")
+//             fs.readFile("akash.txt",(error,data)=>{
+//                 console.log(error,data.toString())
+//             })
+//         })
+//          // Again
+//          fs.writeFile("akash.txt", "akash is a good boy",()=>{
+//             console.log("done")
+//             fs.readFile("akash.txt",(error,data)=>{
+//                 console.log(error,data.toString())
+//             })
+//         })
+//     })
+// })
